@@ -1,0 +1,7 @@
+{
+  "name": "gepphysicaladdressmgr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
